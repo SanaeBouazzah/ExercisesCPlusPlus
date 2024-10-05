@@ -1,4 +1,4 @@
-//Exercise : write a program to ask the user to enter a number and print :
+//Exercise 33: write a program to ask the user to enter a number and print :
 //Number^2 - Number^3 - Number^4
 //Example : 3.             Output : 9 - 27 - 81
 
