@@ -37,6 +37,7 @@ double CalculateCommission(double TotalSales){
 void Printfunc(double TotalSales){
   cout << "The Commission is : " << CalculateCommission(TotalSales);
 }
+
 int main()
 {
   double TotalSales;
